@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home_menu"
+    android:title="Inicio"
+    android:icon="@drawable/baseline_add_home_24"/>
+
+    <item android:id="@+id/category_menu"
+        android:title="Categoria"
+        android:icon="@drawable/baseline_align_horizontal_left_24"/>
+
+    <item android:id="@+id/blank1"
+        android:title="Ejemplo 1"
+        android:icon="@drawable/baseline_add_home_24"/>
+
+    <item android:id="@+id/blank2"
+        android:title="Ejemplo 2"
+        android:icon="@drawable/baseline_align_horizontal_left_24"/>
+</menu>
